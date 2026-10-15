@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi 👋, I'm Dharaniprasath
 
-<!--
-**Dharani-debug/Dharani-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Data Science Learner
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>Learning Data • Building Skills • Creating Impact</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 About Me
+
+- 🎓 Final-year Electronics & Communication Engineering student
+- 📊 Currently learning Data Science
+- 🐍 Developing my Python skills
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💡 Interested in data analysis and solving real-world problems
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/dharaniprasath-s-0bb60b258/?isSelfProfile=true)
+- 📧 Email: siva5dharani@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/>
+</p>
+
+---
+
+## 📂 Projects
+
+*More projects coming soon!*
+
+---
+
+<p align="center">
+  <i>Always Learning. Always Improving. 🚀</i>
+</p>
