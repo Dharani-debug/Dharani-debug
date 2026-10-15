@@ -35,6 +35,22 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-debug&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-debug&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-debug&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
 ## 📂 Projects
 
 *More projects coming soon!*
