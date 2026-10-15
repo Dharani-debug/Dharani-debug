@@ -52,8 +52,12 @@
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode"/>
-  <img src="https://img.shields.io/badge/Freebuff-4A90E2?style=for-the-badge" alt="Freebuff"/>
+  <a href="https://opencode.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode"/>
+  </a>
+  <a href="https://freebuff.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Freebuff-4A90E2?style=for-the-badge" alt="Freebuff"/>
+  </a>
 </p>
 
 ---
