@@ -77,10 +77,20 @@
 </p>
 
 ---
-## 📂 Projects
 
-*More projects coming soon!*
+## 🤝 Let's Connect and Grow Together
 
+<p align="center">
+  <i>Learning Data Science, exploring AI, and building my skills one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharani-debug&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 😊</b>
+</p>
 ---
 
 <p align="center">
